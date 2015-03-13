@@ -1,8 +1,9 @@
 #!/usr/bin/env python
+import sys
+
 ### DIARIOSEC GROUP ###
 ### B3RG & IRONBITS ###
 ### www.Ironbits.me ###
-import sys
 
 try:
     import requests
